@@ -1,12 +1,6 @@
-/* #region Начало вспомогательных классов */
-
 .shadow-decor {
   text-shadow: 2px 2px 0 var(--accent-color, #ff0070);
 }
-
-/* #endregion Конец вспомогательных классов  */
-
-/* #region Начало глобальных компонентов */
 
 .page {
   color: var(--text-color, #f1b2ce);
